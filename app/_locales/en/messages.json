@@ -29,18 +29,13 @@
     "description": ""
   },
 
-  "txt_popup_options_help_documentation": {
-    "message": "Read the documentation",
-    "description": ""
-  },
-
   "txt_popup_options_help_welcome": {
     "message": "See welcome screen again",
     "description": ""
   },
 
   "txt_popup_options_help_feedback": {
-    "message": "Give beta feedback",
+    "message": "File issues or bugs on Github",
     "description": ""
   },
 
@@ -97,5 +92,13 @@
   "txt_welcome_body_what_links": {
     "message": "Any agent link, which is any link with /agent after the domain. Tickets, users, views and even admin pages.",
     "description": ""
+  },
+
+  "txt_github_info": {
+    "message": "Zendesk QuickTab is no longer maintained by Zendesk. It was forked from the original release after it was taken down from the Chrome store. Please see the new Github page to contribute or to file a bug."
+  },
+
+  "txt_github_header": {
+    "message": "Contributing and Bugs"
   }
 }
