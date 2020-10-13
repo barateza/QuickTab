@@ -1,6 +1,6 @@
 {
   "name": "QuickTab",
-  "version": "0.11.6",
+  "version": "0.12.0",
   "description": "Well behaved ticket tabs for Zendesk agents",
   "main": "Gruntfile.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/zendesklabs/QuickTab.git"
+    "url": "git://github.com/shonin/QuickTab.git"
   },
   "author": "Zendesk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zendesklabs/QuickTab/issues"
+    "url": "https://github.com/shonin/QuickTab/issues"
   },
-  "homepage": "https://github.com/zendesklabs/QuickTab",
+  "homepage": "https://github.com/shonin/QuickTab",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-bump": "^0.3.0",
