@@ -1,3 +1,5 @@
+Update: this is reforked to make it compliant with ManifestV3. Still under testing.
+
 I did not develop this extension. It was removed from the chrome store so I forked the github repo and re-released it. 
 
 ### Summary
