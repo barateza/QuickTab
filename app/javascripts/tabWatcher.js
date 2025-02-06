@@ -1,1 +1,1 @@
-require('./browser/listeners.js');
+importScripts('./browser/listeners.js');

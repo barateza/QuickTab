@@ -20,7 +20,10 @@ var tabs = {
   },
 
   executeScript: function(tabId, script) {
-    chrome.tabs.executeScript(tabId, { code: script });
+    chrome.scripting.executeScript({
+      target: { tabId: tabId },
+      func: new Function(script)
+    });
   }
 
 };
